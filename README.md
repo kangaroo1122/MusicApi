@@ -7,4 +7,4 @@ one一个官方api调用，获取每日一句。
 ### 爱词霸
 爱词霸官方api调用，获取每日一句。
 
-api文档地址参考：[QQ音乐等各类API食用指南](https://blog.kangaroohy.top/articles/2019/09/17/1568720125758.html)
+api文档地址参考：[QQ音乐等各类API食用指南](https://www.kangaroohy.com/articles/2019/09/17/1568720125758.html)
